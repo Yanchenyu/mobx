@@ -1,0 +1,7 @@
+.username, .password {
+    border: 0
+}
+
+.illegal {
+    color: red
+}
